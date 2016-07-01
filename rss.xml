@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Beus]]></title>
+        <description><![CDATA[Beus]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jul 2016 07:03:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VS onderzoekt rol Autopilot bij dodelijk ongeluk met Tesla S]]></title>
+            <description><![CDATA[<article><h1>VS onderzoekt rol Autopilot bij dodelijk ongeluk met Tesla S</h1><p>De National Highway Traffic Safety Administration start een onderzoek naar Autopilot. het systeem voor semi-autonoom rijden van Tesla. De reden is een fataal ongeluk met een Tesla S waarbij de bestuurder overleed. De autoriteiten stellen een voorlopige evaluatie in van Autopilot, wat een opmaat kan zijn naar een grondiger onderzoek als er onvolkomenheden worden aangetroffen.</p><img src="https://ic.tweakimg.net/ext/i/imagenormal/2000553710.jpeg"></article>]]></description>
+            <link>https://tweakers.net/nieuws/113083/vs-onderzoekt-rol-autopilot-bij-dodelijk-ongeluk-met-tesla-s.html</link>
+            <guid isPermaLink="false">004d648d-5270-452d-b684-ca7d53c75b07</guid>
+            <pubDate>Fri, 01 Jul 2016 07:01:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
