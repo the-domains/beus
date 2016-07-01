@@ -1,0 +1,14 @@
+layout_spectrum: 0.7461611470207572
+typography_spectrum: 0.25089843524619937
+color:
+  brandStrength: 0.6620101116131991
+  lightness: 0.9752368875779212
+  saturation: 0.6689147003926337
+  rhythmicContrast: 0.5269324467517436
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Beus
